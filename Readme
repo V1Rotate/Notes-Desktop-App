@@ -1,0 +1,4 @@
+This is a desktop application developed with Javascript and Electron to save user's note into .txt files.
+
+Electron-packager dependency needs to be installed if a user wants to create this application shortcut (by createing .ext file) on his hard drive:
+https://github.com/electron/electron-packager
